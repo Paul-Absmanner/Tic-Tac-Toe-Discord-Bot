@@ -1,4 +1,3 @@
-# ex2-k12205739-k12222785
 
 
 # Tic-Tac-Toe Discord Bot
